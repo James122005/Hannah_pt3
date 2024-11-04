@@ -1,0 +1,73 @@
+
+[
+  {
+    "name": "Sneakers",
+    "description": "Comfortable sneakers for casual wear.",
+    "image": "sneakers.jpg",
+    "price": 1500,
+    "category": "Casual Shoes"
+  },
+  {
+    "name": "Boots",
+    "description": "Stylish boots for formal occasions.",
+    "image": "boots.jpg",
+    "price": 3000,
+    "category": "Dress Shoes"
+  },
+  {
+    "name": "Sandals",
+    "description": "Relaxed-fit sandals for warm weather.",
+    "image": "sandals.jpg",
+    "price": 800,
+    "category": "Summer Shoes"
+  },
+  {
+    "name": "Loafers",
+    "description": "Slip-on loafers for business attire.",
+    "image": "loafers.jpg",
+    "price": 2000,
+    "category": "Dress Shoes"
+  },
+  {
+    "name": "Running Shoes",
+    "description": "High-performance running shoes.",
+    "image": "running_shoes.jpg",
+    "price": 2500,
+    "category": "Athletic Shoes"
+  },
+  {
+    "name": "Hiking Boots",
+    "description": "Rugged hiking boots for outdoor adventures.",
+    "image": "hiking_boots.jpg",
+    "price": 3500,
+    "category": "Outdoor Shoes"
+  },
+  {
+    "name": "Dance Shoes",
+    "description": "Stylish dance shoes for special occasions.",
+    "image": "dance_shoes.jpg",
+    "price": 2200,
+    "category": "Dress Shoes"
+  },
+  {
+    "name": "Slip-On Sneakers",
+    "description": "Easy-to-wear slip-on sneakers.",
+    "image": "slip_on_sneakers.jpg",
+    "price": 1200,
+    "category": "Casual Shoes"
+  },
+  {
+    "name": "Chelsea Boots",
+    "description": "Versatile Chelsea boots for stylish looks.",
+    "image": "chelsea_boots.jpg",
+    "price": 2800,
+    "category": "Dress Shoes"
+  },
+  {
+    "name": "Mules",
+    "description": "Comfortable mules for everyday wear.",
+    "image": "mules.jpg",
+    "price": 1800,
+    "category": "Casual Shoes"
+  }
+]
